@@ -16,5 +16,5 @@ The repository is structured as follows:
   assignment specifications.
   
 - __Ass1, Ass2, Ass3, Ass4__: contains the source code and files relative
-  to each assignment. Each folder has a README.pdf files that contains
+  to each assignment. Each folder has a README.pdf file that contains
   answers and design implementation choices.
